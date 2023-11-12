@@ -1,0 +1,2 @@
+/opt/homebrew/Cellar/bear/3.1.3_5/lib/bear/wrapper.d/ar qc libhello_world.a CMakeFiles/hello_world.dir/print_helper.cpp.o
+/opt/homebrew/Cellar/bear/3.1.3_5/lib/bear/wrapper.d/ranlib libhello_world.a

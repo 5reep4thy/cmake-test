@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/sreepathyjayanand/Documents/code/cmake-test/src",
+  "command": "/opt/homebrew/Cellar/bear/3.1.3_5/lib/bear/wrapper.d/c++    -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/hello_world.dir/print_helper.cpp.o -c /Users/sreepathyjayanand/Documents/code/cmake-test/src/print_helper.cpp",
+  "file": "/Users/sreepathyjayanand/Documents/code/cmake-test/src/print_helper.cpp",
+  "output": "src/CMakeFiles/hello_world.dir/print_helper.cpp.o"
+},
+{
+  "directory": "/Users/sreepathyjayanand/Documents/code/cmake-test/examples",
+  "command": "/opt/homebrew/Cellar/bear/3.1.3_5/lib/bear/wrapper.d/c++  -I/Users/sreepathyjayanand/Documents/code/cmake-test/examples/../include  -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/sreepathyjayanand/Documents/code/cmake-test/examples/main.cpp",
+  "file": "/Users/sreepathyjayanand/Documents/code/cmake-test/examples/main.cpp",
+  "output": "examples/CMakeFiles/main.dir/main.cpp.o"
+}
+]

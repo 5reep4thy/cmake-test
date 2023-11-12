@@ -1,0 +1,10 @@
+/Users/sreepathyjayanand/Documents/code/cmake-test/build/CMakeFiles/edit_cache.dir
+/Users/sreepathyjayanand/Documents/code/cmake-test/build/CMakeFiles/rebuild_cache.dir
+/Users/sreepathyjayanand/Documents/code/cmake-test/build/src/CMakeFiles/hello_world.dir
+/Users/sreepathyjayanand/Documents/code/cmake-test/build/src/CMakeFiles/edit_cache.dir
+/Users/sreepathyjayanand/Documents/code/cmake-test/build/src/CMakeFiles/rebuild_cache.dir
+/Users/sreepathyjayanand/Documents/code/cmake-test/build/include/CMakeFiles/edit_cache.dir
+/Users/sreepathyjayanand/Documents/code/cmake-test/build/include/CMakeFiles/rebuild_cache.dir
+/Users/sreepathyjayanand/Documents/code/cmake-test/build/examples/CMakeFiles/main.dir
+/Users/sreepathyjayanand/Documents/code/cmake-test/build/examples/CMakeFiles/edit_cache.dir
+/Users/sreepathyjayanand/Documents/code/cmake-test/build/examples/CMakeFiles/rebuild_cache.dir

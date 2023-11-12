@@ -1,0 +1,1 @@
+/opt/homebrew/Cellar/bear/3.1.3_5/lib/bear/wrapper.d/c++  -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/openssl/lib CMakeFiles/main.dir/main.cpp.o -o main  ../src/libhello_world.a 

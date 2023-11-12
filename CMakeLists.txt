@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.15)
+project(cmake_test)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+add_subdirectory(src)
+add_subdirectory(include)
+option(BUILD_EX "Build the examples?" ON)
+
+if (BUILD_EX)
+  message(STATUS "Building...")
+  add_subdirectory(examples)
+endif()
